@@ -16,5 +16,6 @@
 > > **your authtoken**
 
 进入 your authtoken 页面，点击copy就可以把你的密钥复制到剪切板
-![Model](https://s1.328888.xyz/2022/08/22/bT8od.jpg）
+
+[![bT8od.jpg](https://s1.328888.xyz/2022/08/22/bT8od.jpg)](https://imgloc.com/i/bT8od)
 
