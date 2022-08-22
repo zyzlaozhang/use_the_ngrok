@@ -44,7 +44,7 @@
   ngrok.exe http 你要穿透的端口
 ```
 
-[![bTtkR.md.jpg](https://s1.328888.xyz/2022/08/22/bTtkR.md.jpg)](https://imgloc.com/i/bTtkR)
+[![bTtkR.jpg](https://s1.328888.xyz/2022/08/22/bTtkR.jpg)](https://imgloc.com/i/bTtkR)
 
 然后你就可以见到一个新的页面
 
@@ -68,6 +68,15 @@ _提示，那个域名是由ngrok随机生成，固定域名需要购买**vip**_
       return "hello_world"
     
     if __name__=="__main__":
-      app.run(host='0.0.0.0',debug=True,port=5000)
+      app.run(host='0.0.0.0',debug=True,port=80)
 ```
+然后启动ngrok，并且访问
 
+点击**visit site**
+[![bTAyE.jpg](https://s1.328888.xyz/2022/08/22/bTAyE.jpg)](https://imgloc.com/i/bTAyE)
+
+嗯访问成功:v::v::v:
+
+[![bTWfi.jpg](https://s1.328888.xyz/2022/08/22/bTWfi.jpg)](https://imgloc.com/i/bTWfi)
+
+:laughing::laughing::laughing::laughing::laughing::laughing::laughing::laughing::laughing::laughing:
