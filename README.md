@@ -13,7 +13,7 @@
 
 在设置页面，找到
 > getting started
-> > your authtoken
+> > **your authtoken**
 
 进入 your authtoken 页面，点击copy就可以把你的密钥复制到剪切板
 
