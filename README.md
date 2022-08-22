@@ -21,13 +21,53 @@
 
 ## 第三步，下载ngrok/绑定ngrok
 
+[![bTg0C.jpg](https://s1.328888.xyz/2022/08/22/bTg0C.jpg)](https://imgloc.com/i/bTg0C)
+
 下载ngrok并且解压，放置在任意文件夹内
 
-打开**ngrok.exe**，输入以下代码
+打开**ngrok.exe**，输入以下命令
 
 ```cmd
   ngrok config add-authtoken 你的密钥
 ```
 
+[![bTJmB.jpg](https://s1.328888.xyz/2022/08/22/bTJmB.jpg)](https://imgloc.com/i/bTJmB)
 
+此时ngrok就和你绑定完成了
+
+## 第四步，开始使用
+
+打开**ngrok.exe**，输入以下命令
+
+
+```cmd
+  ngrok.exe http 你要穿透的端口
+```
+
+[![bTtkR.md.jpg](https://s1.328888.xyz/2022/08/22/bTtkR.md.jpg)](https://imgloc.com/i/bTtkR)
+
+然后你就可以见到一个新的页面
+
+在 **forwarding** 后面就是你映射后的网址
+
+_提示，那个域名是由ngrok随机生成，固定域名需要购买**vip**_
+
+[![bTytP.jpg](https://s1.328888.xyz/2022/08/22/bTytP.jpg)](https://imgloc.com/i/bTytP)
+
+## 第五步，测试
+
+我在本地起了一个flask项目
+
+
+```python
+    from flask import Flask
+    app=Flask(__name__)
+    
+    @app.route('/')
+    def index():
+      return "hello_world"
+    
+    if __name__=="__main__":
+      app.run(host='0.0.0.0',debug=True,port=5000)
+```
 
