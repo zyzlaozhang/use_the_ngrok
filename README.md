@@ -5,7 +5,7 @@
 ## 第一步，注册ngrok
 首先，我们去往[ngrok官网](https://ngrok.com/)注册一个ngork账户或者是使用github登录
 
-[![233.jpg](https://i.postimg.cc/3JRK1T42/233.jpg)](https://postimg.cc/grCFc1K0)
+[![image.jpg](https://i.postimg.cc/tR6dgKCt/image.jpg)](https://postimg.cc/XXVBHD5p)
 
 ## 第二布，获取密钥
 如果不将ngork客户端进行一个绑定，ngrok则无法显示html文件
