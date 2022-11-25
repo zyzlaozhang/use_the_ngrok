@@ -5,7 +5,7 @@
 ## 第一步，注册ngrok
 首先，我们去往[ngrok官网](https://ngrok.com/)注册一个ngork账户或者是使用github登录
 
-[![bTUeU.jpg](https://s1.328888.xyz/2022/08/22/bTUeU.jpg)](https://imgloc.com/i/bTUeU)
+[![233.jpg](https://i.postimg.cc/3JRK1T42/233.jpg)](https://postimg.cc/grCFc1K0)
 
 ## 第二布，获取密钥
 如果不将ngork客户端进行一个绑定，ngrok则无法显示html文件
@@ -17,11 +17,11 @@
 
 进入 your authtoken 页面，点击copy就可以把你的密钥复制到剪切板
 
-[![bT8od.jpg](https://s1.328888.xyz/2022/08/22/bT8od.jpg)](https://imgloc.com/i/bT8od)
+[![tempsnip.jpg](https://i.postimg.cc/QCdf2S1n/tempsnip.jpg)](https://postimg.cc/5YD5vBPw)
 
 ## 第三步，下载ngrok/绑定ngrok
 
-[![bTg0C.jpg](https://s1.328888.xyz/2022/08/22/bTg0C.jpg)](https://imgloc.com/i/bTg0C)
+[![233.jpg](https://i.postimg.cc/s2cn2tjg/233.jpg)](https://postimg.cc/sBMP6HGk)
 
 下载ngrok并且解压，放置在任意文件夹内
 
@@ -31,7 +31,7 @@
   ngrok config add-authtoken 你的密钥
 ```
 
-[![bTJmB.jpg](https://s1.328888.xyz/2022/08/22/bTJmB.jpg)](https://imgloc.com/i/bTJmB)
+[![256.jpg](https://i.postimg.cc/wxJ6bV0j/256.jpg)](https://postimg.cc/yW14D0MM)
 
 此时ngrok就和你绑定完成了
 
@@ -44,7 +44,7 @@
   ngrok.exe http 你要穿透的端口
 ```
 
-[![bTtkR.jpg](https://s1.328888.xyz/2022/08/22/bTtkR.jpg)](https://imgloc.com/i/bTtkR)
+[![233.jpg](https://i.postimg.cc/Yqbv2Rgz/233.jpg)](https://postimg.cc/nC9F0v3X)
 
 然后你就可以见到一个新的页面
 
@@ -52,7 +52,7 @@
 
 _提示，那个域名是由ngrok随机生成，固定域名需要购买**vip**_
 
-[![bTytP.jpg](https://s1.328888.xyz/2022/08/22/bTytP.jpg)](https://imgloc.com/i/bTytP)
+[![kkk.jpg](https://i.postimg.cc/pXGdMTb0/kkk.jpg)](https://postimg.cc/QH7DpjM5)
 
 ## 第五步，测试
 
@@ -73,10 +73,11 @@ _提示，那个域名是由ngrok随机生成，固定域名需要购买**vip**_
 然后启动ngrok，并且访问
 
 点击**visit site**
-[![bTAyE.jpg](https://s1.328888.xyz/2022/08/22/bTAyE.jpg)](https://imgloc.com/i/bTAyE)
+
+[![455.jpg](https://i.postimg.cc/8547Fm9G/455.jpg)](https://postimg.cc/dk7sprJN)
 
 嗯访问成功:v::v::v:
 
-[![bTWfi.jpg](https://s1.328888.xyz/2022/08/22/bTWfi.jpg)](https://imgloc.com/i/bTWfi)
+[![678.jpg](https://i.postimg.cc/bvTyLNTH/678.jpg)](https://postimg.cc/DWS3whR8)
 
 :laughing::laughing::laughing::laughing::laughing::laughing::laughing::laughing::laughing::laughing:
